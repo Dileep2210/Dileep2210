@@ -1,148 +1,406 @@
-<h1 align="center">Hi 👋, I'm Dileep Kumar</h1>
-<h3 align="center">🚀 GenAI Full Stack Developer | React | TypeScript | Python | FastAPI | LLMs</h3>
+<!-- ======================= HERO ======================= -->
 
-<p align="center">
-  Passionate about building AI-powered web applications, scalable backend APIs, and intelligent agentic systems.
-</p>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Dileep%20Kumar&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=GenAI%20Full%20Stack%20Developer&descAlignY=60&descSize=20" width="100%"/>
 
-## 👨‍💻 About Me
+<br/>
 
-- 💼 GenAI Full Stack Developer with **3+ years of experience**
-- 🌐 Building enterprise-grade web applications using React & TypeScript
-- 🤖 Experienced with LLM integration, RAG pipelines, and AI chat applications
-- 🐍 Backend development using Python, FastAPI, and Flask
-- 🗄️ Working with PostgreSQL, REST APIs, and authentication systems
-- 🌱 Currently learning **LangGraph, MCP, AI Agents, and AWS**
-- 🎯 Goal: Build production-ready AI applications that solve real-world problems
+<a href="https://dileepkumar-dev.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-2563EB?style=for-the-badge"/>
+</a>
 
----
+<a href="https://www.linkedin.com/in/panchumarthi-dileep-kumar-a6a82a219/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## 🚀 Tech Stack
+<a href="mailto:dileepkumar22p@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### Frontend
+<br/><br/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,vite" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;React+%2B+TypeScript+%2B+Python;RAG+%7C+AI+Agents+%7C+LLMs;Turning+ideas+into+production+systems" />
 
-### Backend
+<br/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Dileep2210&label=Profile%20Views&color=2563EB&style=flat-square" />
 
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
-</p>
-
-### AI / GenAI
-
-- OpenAI
-- Google Gemini
-- LangChain
-- LangGraph
-- RAG
-- Prompt Engineering
-- Vector Databases
-- FAISS
-- ChromaDB
-- Pinecone
-- Hugging Face
-
-### DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,postman" />
-</p>
+</div>
 
 ---
 
-## 💼 Featured Projects
+# 👨‍💻 About Me
 
-### 🤖 AI Chat Application
-- React + FastAPI
-- Gemini/OpenAI Integration
-- Authentication
-- Chat History
-- PostgreSQL
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  🚀 GenAI Full Stack Developer                           │
+│                                                          │
+│  Building intelligent applications using:               │
+│                                                          │
+│  ⚛️ React + TypeScript                                   │
+│  🐍 Python + FastAPI                                     │
+│  🤖 LLMs + RAG                                           │
+│  🧠 LangChain + LangGraph                                │
+│  🔌 MCP + AI Agents                                      │
+│  ☁️ AWS + Docker                                         │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
 
----
+- 💼 **3+ years** of software development experience
+- ⚛️ Building scalable frontend applications with **React & TypeScript**
+- 🐍 Building backend APIs with **Python, FastAPI & Flask**
+- 🤖 Working with **LLMs, RAG and AI-powered applications**
+- 🧠 Exploring **Agentic AI, LangGraph and MCP**
+- 🗄️ Working with **PostgreSQL & REST APIs**
+- ☁️ Learning **AWS and production AI deployment**
 
-### 📄 RAG Chatbot
-
-- PDF Upload
-- Chunking
-- Embeddings
-- Vector Database
-- Semantic Search
-- LLM Response Generation
-
----
-
-### 🧠 AI Agent
-
-- LangGraph
-- Tool Calling
-- Memory
-- Multi-step Reasoning
-- Workflow Automation
-
----
-
-### 🌐 Full Stack Enterprise Application
-
-- React
-- TypeScript
-- Flask
-- PostgreSQL
-- JWT Authentication
-- REST APIs
+> **I build AI systems that connect intelligent models with real-world applications.**
 
 ---
 
-## 📈 GitHub Stats
+# 🧠 My AI Engineering Stack
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dileep2210&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dileep2210&layout=compact&theme=tokyonight" />
-</p>
+### LLM Applications
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Dileep2210&theme=tokyonight" />
-</p>
+<img src="https://skillicons.dev/icons?i=python" />
+
+<br/>
+
+`OpenAI` `Gemini` `LLMs` `Prompt Engineering` `Structured Output`
+
+<br/><br/>
+
+### Retrieval-Augmented Generation
+
+```text
+📄 Documents
+      ↓
+✂️ Chunking
+      ↓
+🔢 Embeddings
+      ↓
+🗄️ Vector Database
+      ↓
+🔍 Retrieval
+      ↓
+🎯 Reranking
+      ↓
+🤖 LLM
+      ↓
+💬 Answer
+```
+
+<br/>
+
+`RAG` `FAISS` `ChromaDB` `Pinecone` `Embeddings` `Semantic Search`
+
+<br/><br/>
+
+### Agentic AI
+
+```text
+              ┌─────────────┐
+              │     LLM     │
+              └──────┬──────┘
+                     ↓
+              ┌─────────────┐
+              │ AI Agent    │
+              └──────┬──────┘
+                     ↓
+        ┌────────────┼────────────┐
+        ↓            ↓            ↓
+     🔎 Search    🛠️ Tools     🗄️ Data
+        ↓            ↓            ↓
+        └────────────┼────────────┘
+                     ↓
+                 🎯 Result
+```
+
+`LangGraph` `MCP` `Tool Calling` `AI Agents` `Workflows`
+
+</div>
 
 ---
 
-## 🎯 Currently Learning
+# ⚡ Technology Arsenal
 
-- ✅ Agentic AI
-- ✅ LangGraph
-- ✅ MCP (Model Context Protocol)
-- ✅ Multi-Agent Systems
-- ✅ AWS
-- ✅ Docker
-- ✅ Production LLM Deployment
+<div align="center">
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,sass,vite,tailwind" />
+
+<br/><br/>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs" />
+
+<br/><br/>
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,sqlite,redis" />
+
+<br/><br/>
+
+### ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel" />
+
+<br/><br/>
+
+### 🧰 Development Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,linux" />
+
+</div>
 
 ---
 
-## 📫 Connect With Me
+# 🚀 Featured Projects
 
-- 💼 LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/panchumarthi-dileep-kumar-a6a82a219/)
-- 📧 Email: dileepkumar22p@gmail.com
+<div align="center">
+
+## 🛒 CartInMinutes
+
+### Quick-Commerce Full Stack Application
+
+<img src="YOUR_CARTINMINUTES_SCREENSHOT_URL" width="850"/>
+
+<br/>
+
+`React` `TypeScript` `Python` `PostgreSQL` `Razorpay` `Google Maps`
+
+</div>
+
+### ✨ Highlights
+
+- 🛍️ Product browsing & shopping cart
+- 👨‍💼 Admin management panel
+- 🚚 Delivery partner panel
+- 💳 Razorpay payment integration
+- 📍 Location-based delivery
+- ⏱️ Dynamic delivery estimation
+- 🔐 Role-based authentication
+
+<div align="center">
+
+<a href="YOUR_LIVE_URL">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_GITHUB_REPO">
+<img src="https://img.shields.io/badge/💻%20Source%20Code-111827?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 ---
 
-## 💡 Fun Fact
+## 🤖 AI Chat Application
 
-> "I enjoy building AI-powered applications that combine modern web technologies with Large Language Models to create intelligent user experiences."
+<div align="center">
+
+<img src="YOUR_AI_CHAT_SCREENSHOT_URL" width="850"/>
+
+<br/>
+
+`React` `TypeScript` `Python` `FastAPI` `LLM` `PostgreSQL`
+
+</div>
+
+### ✨ Highlights
+
+- 💬 AI-powered conversations
+- 🧠 Context-aware responses
+- 🗂️ Chat history
+- 🔐 Authentication
+- ⚡ Real-time interactions
+- 🤖 LLM integration
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+## 📄 RAG Document Assistant
+
+<div align="center">
+
+<img src="YOUR_RAG_SCREENSHOT_URL" width="850"/>
+
+<br/>
+
+`Python` `FastAPI` `RAG` `Embeddings` `Vector Database` `LLM`
+
+</div>
+
+```text
+PDF
+ ↓
+Document Extraction
+ ↓
+Chunking
+ ↓
+Embeddings
+ ↓
+Vector Search
+ ↓
+Context Retrieval
+ ↓
+LLM
+ ↓
+Grounded Answer
+```
+
+---
+
+# 💼 Experience
+
+<div align="center">
+
+### Associate Software Engineer
+
+**Mphasis**
+
+`React` `TypeScript` `JavaScript` `APIs` `Enterprise Applications`
+
+</div>
+
+### What I Work On
+
+- ⚛️ React-based enterprise applications
+- 🧩 Reusable component architecture
+- 🔗 REST API integration
+- 🎨 Modern UI development
+- 🤖 AI-powered application development
+- 🔐 Authentication & application security
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dileep2210&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dileep2210&layout=compact&hide_border=true&theme=transparent" height="180"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Dileep2210&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="850"/>
+
+</div>
+
+---
+
+# 🎯 Currently Exploring
+
+<div align="center">
+
+| Area | Focus |
+|---|---|
+| 🤖 Generative AI | LLM Applications |
+| 🔎 RAG | Advanced Retrieval |
+| 🧠 Agents | Agentic AI |
+| 🕸️ LangGraph | Agent Workflows |
+| 🔌 MCP | AI Tool Integration |
+| ☁️ AWS | Cloud Deployment |
+| 🐳 Docker | Containerization |
+| 🚀 Production AI | Scalable AI Systems |
+
+</div>
+
+---
+
+# 🗺️ My Learning Journey
+
+```text
+Frontend
+   │
+   ▼
+React + TypeScript
+   │
+   ▼
+Backend Development
+   │
+   ▼
+Python + FastAPI
+   │
+   ▼
+Generative AI
+   │
+   ▼
+LLMs + RAG
+   │
+   ▼
+AI Agents
+   │
+   ▼
+LangGraph + MCP
+   │
+   ▼
+AWS + Production
+   │
+   ▼
+🚀 AI Engineering
+```
+
+---
+
+# 💡 Developer Philosophy
+
+<div align="center">
+
+### Learn → Build → Break → Fix → Ship → Repeat
+
+<br/>
+
+> **"Don't just learn AI. Build with it."**
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/panchumarthi-dileep-kumar-a6a82a219/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://dileepkumar-dev.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:dileepkumar22p@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🚀 Building intelligent products with AI + Full Stack Engineering.
+
+⭐ **Explore my repositories and let's build something amazing.**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer" width="100%"/>
