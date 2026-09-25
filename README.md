@@ -1,13 +1,298 @@
-<!-- ======================= HERO ======================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Dileep%20Kumar&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=GenAI%20Full%20Stack%20Developer&descAlignY=60&descSize=20" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=230&section=header&text=Dileep%20Kumar&fontSize=58&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=GenAI%20Full%20Stack%20Developer&descAlignY=62&descSize=20"/>
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=GenAI+Full+Stack+Developer;React+%7C+TypeScript+%7C+Python;LLMs+%7C+RAG+%7C+AI+Agents;LangGraph+%7C+MCP+%7C+FastAPI;Building+AI-powered+products+🚀" />
+
+<br/><br/>
+
 <a href="https://dileepkumar-dev.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Visit-111827?style=for-the-badge"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/panchumarthi-dileep-kumar-a6a82a219/">
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:dileepkumar22p@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Dileep2210&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# ⚡ I Build
+
+<img src="https://img.shields.io/badge/🤖%20AI%20Applications-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔎%20RAG%20Systems-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧠%20AI%20Agents-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚛️%20Full%20Stack%20Apps-111827?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=700&color=8B5CF6&center=true&vCenter=true&width=700&lines=Turning+LLMs+into+real+products;Building+intelligent+user+experiences;From+idea+%E2%86%92+architecture+%E2%86%92+production"/>
+
+</div>
+
+---
+
+# 🧠 AI Engineering
+
+<div align="center">
+
+### 🔥 My AI Stack
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/OpenAI-LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-LLMs-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-RAG-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-Agents-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-Tools-7C3AED?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FAISS-Vector_Search-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-Vector_DB-FF6F61?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Pinecone-Vector_DB-0A7CFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+</div>
+
+---
+
+# 🔎 RAG Architecture
+
+<div align="center">
+
+<img src="YOUR_RAG_ARCHITECTURE_GIF_OR_SVG" width="900"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Documents-1F2937?style=for-the-badge"/>
+➡️
+<img src="https://img.shields.io/badge/Chunking-1F2937?style=for-the-badge"/>
+➡️
+<img src="https://img.shields.io/badge/Embeddings-1F2937?style=for-the-badge"/>
+➡️
+<img src="https://img.shields.io/badge/Vector_DB-1F2937?style=for-the-badge"/>
+➡️
+<img src="https://img.shields.io/badge/Retrieval-1F2937?style=for-the-badge"/>
+➡️
+<img src="https://img.shields.io/badge/LLM-1F2937?style=for-the-badge"/>
+➡️
+<img src="https://img.shields.io/badge/Answer-2563EB?style=for-the-badge"/>
+
+</div>
+
+---
+
+# ⚙️ Technology Arsenal
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,sass,vite,tailwind" />
+
+<br/><br/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs" />
+
+<br/><br/>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,sqlite,redis" />
+
+<br/><br/>
+
+### Cloud • DevOps • Tools
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,vscode,postman,linux" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+## 🛒 CartInMinutes
+
+<a href="YOUR_LIVE_URL">
+
+<img src="YOUR_CARTINMINUTES_GIF_OR_SCREENSHOT" width="900"/>
+
+</a>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=react,typescript,python,postgresql" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🛍️%20E--Commerce-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💳%20Razorpay-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📍%20Google%20Maps-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚚%20Delivery-111827?style=for-the-badge"/>
+
+<br/><br/>
+
+<a href="YOUR_LIVE_URL">
+<img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="YOUR_GITHUB_REPO">
+<img src="https://img.shields.io/badge/💻%20SOURCE-111827?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤖 AI Chat Application
+
+<img src="YOUR_AI_CHAT_GIF" width="900"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=react,typescript,python,fastapi,postgresql" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/💬%20AI%20Chat-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧠%20LLM-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📚%20RAG-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔐%20Authentication-111827?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📄 RAG Document Assistant
+
+<img src="YOUR_RAG_PROJECT_GIF" width="900"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/PDF%20→%20Embeddings%20→%20Vector%20Search%20→%20LLM-111827?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 💼 Experience
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/2024%20→%20Present-2563EB?style=for-the-badge"/>
+
+<br/><br/>
+
+# Associate Software Engineer
+
+### Mphasis
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,python" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Enterprise%20Applications-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Frontend%20Engineering-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20Integration-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Applications-111827?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dileep2210&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dileep2210&layout=compact&hide_border=true&theme=transparent" width="49%"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Dileep2210&theme=transparent&hide_border=true" width="70%"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="900"/>
+
+</div>
+
+---
+
+# 🗺️ AI Engineering Journey
+
+<div align="center">
+
+<img src="YOUR_LEARNING_ROADMAP_GIF_OR_SVG" width="900"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/React-✓-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-✓-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-✓-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-✓-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-✓-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agents-✓-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-→-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-→-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS-→-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</div>
+
+---
+
+# 🔥 Currently Exploring
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Agentic+AI;LangGraph;MCP;Multi-Agent+Systems;Advanced+RAG;AWS;Production+LLM+Systems"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🤝 Let's Build Something
+
+<a href="https://dileepkumar-dev.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-2563EB?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/panchumarthi-dileep-kumar-a6a82a219/">
@@ -20,387 +305,6 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;React+%2B+TypeScript+%2B+Python;RAG+%7C+AI+Agents+%7C+LLMs;Turning+ideas+into+production+systems" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Dileep2210&label=Profile%20Views&color=2563EB&style=flat-square" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=130&section=footer"/>
 
 </div>
-
----
-
-# 👨‍💻 About Me
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│  🚀 GenAI Full Stack Developer                           │
-│                                                          │
-│  Building intelligent applications using:               │
-│                                                          │
-│  ⚛️ React + TypeScript                                   │
-│  🐍 Python + FastAPI                                     │
-│  🤖 LLMs + RAG                                           │
-│  🧠 LangChain + LangGraph                                │
-│  🔌 MCP + AI Agents                                      │
-│  ☁️ AWS + Docker                                         │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
-- 💼 **3+ years** of software development experience
-- ⚛️ Building scalable frontend applications with **React & TypeScript**
-- 🐍 Building backend APIs with **Python, FastAPI & Flask**
-- 🤖 Working with **LLMs, RAG and AI-powered applications**
-- 🧠 Exploring **Agentic AI, LangGraph and MCP**
-- 🗄️ Working with **PostgreSQL & REST APIs**
-- ☁️ Learning **AWS and production AI deployment**
-
-> **I build AI systems that connect intelligent models with real-world applications.**
-
----
-
-# 🧠 My AI Engineering Stack
-
-<div align="center">
-
-### LLM Applications
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-<br/>
-
-`OpenAI` `Gemini` `LLMs` `Prompt Engineering` `Structured Output`
-
-<br/><br/>
-
-### Retrieval-Augmented Generation
-
-```text
-📄 Documents
-      ↓
-✂️ Chunking
-      ↓
-🔢 Embeddings
-      ↓
-🗄️ Vector Database
-      ↓
-🔍 Retrieval
-      ↓
-🎯 Reranking
-      ↓
-🤖 LLM
-      ↓
-💬 Answer
-```
-
-<br/>
-
-`RAG` `FAISS` `ChromaDB` `Pinecone` `Embeddings` `Semantic Search`
-
-<br/><br/>
-
-### Agentic AI
-
-```text
-              ┌─────────────┐
-              │     LLM     │
-              └──────┬──────┘
-                     ↓
-              ┌─────────────┐
-              │ AI Agent    │
-              └──────┬──────┘
-                     ↓
-        ┌────────────┼────────────┐
-        ↓            ↓            ↓
-     🔎 Search    🛠️ Tools     🗄️ Data
-        ↓            ↓            ↓
-        └────────────┼────────────┘
-                     ↓
-                 🎯 Result
-```
-
-`LangGraph` `MCP` `Tool Calling` `AI Agents` `Workflows`
-
-</div>
-
----
-
-# ⚡ Technology Arsenal
-
-<div align="center">
-
-### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,sass,vite,tailwind" />
-
-<br/><br/>
-
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs" />
-
-<br/><br/>
-
-### 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,sqlite,redis" />
-
-<br/><br/>
-
-### ☁️ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel" />
-
-<br/><br/>
-
-### 🧰 Development Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,linux" />
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-## 🛒 CartInMinutes
-
-### Quick-Commerce Full Stack Application
-
-<img src="YOUR_CARTINMINUTES_SCREENSHOT_URL" width="850"/>
-
-<br/>
-
-`React` `TypeScript` `Python` `PostgreSQL` `Razorpay` `Google Maps`
-
-</div>
-
-### ✨ Highlights
-
-- 🛍️ Product browsing & shopping cart
-- 👨‍💼 Admin management panel
-- 🚚 Delivery partner panel
-- 💳 Razorpay payment integration
-- 📍 Location-based delivery
-- ⏱️ Dynamic delivery estimation
-- 🔐 Role-based authentication
-
-<div align="center">
-
-<a href="YOUR_LIVE_URL">
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-2563EB?style=for-the-badge"/>
-</a>
-
-<a href="YOUR_GITHUB_REPO">
-<img src="https://img.shields.io/badge/💻%20Source%20Code-111827?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
----
-
-## 🤖 AI Chat Application
-
-<div align="center">
-
-<img src="YOUR_AI_CHAT_SCREENSHOT_URL" width="850"/>
-
-<br/>
-
-`React` `TypeScript` `Python` `FastAPI` `LLM` `PostgreSQL`
-
-</div>
-
-### ✨ Highlights
-
-- 💬 AI-powered conversations
-- 🧠 Context-aware responses
-- 🗂️ Chat history
-- 🔐 Authentication
-- ⚡ Real-time interactions
-- 🤖 LLM integration
-
----
-
-## 📄 RAG Document Assistant
-
-<div align="center">
-
-<img src="YOUR_RAG_SCREENSHOT_URL" width="850"/>
-
-<br/>
-
-`Python` `FastAPI` `RAG` `Embeddings` `Vector Database` `LLM`
-
-</div>
-
-```text
-PDF
- ↓
-Document Extraction
- ↓
-Chunking
- ↓
-Embeddings
- ↓
-Vector Search
- ↓
-Context Retrieval
- ↓
-LLM
- ↓
-Grounded Answer
-```
-
----
-
-# 💼 Experience
-
-<div align="center">
-
-### Associate Software Engineer
-
-**Mphasis**
-
-`React` `TypeScript` `JavaScript` `APIs` `Enterprise Applications`
-
-</div>
-
-### What I Work On
-
-- ⚛️ React-based enterprise applications
-- 🧩 Reusable component architecture
-- 🔗 REST API integration
-- 🎨 Modern UI development
-- 🤖 AI-powered application development
-- 🔐 Authentication & application security
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dileep2210&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dileep2210&layout=compact&hide_border=true&theme=transparent" height="180"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Dileep2210&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="850"/>
-
-</div>
-
----
-
-# 🎯 Currently Exploring
-
-<div align="center">
-
-| Area | Focus |
-|---|---|
-| 🤖 Generative AI | LLM Applications |
-| 🔎 RAG | Advanced Retrieval |
-| 🧠 Agents | Agentic AI |
-| 🕸️ LangGraph | Agent Workflows |
-| 🔌 MCP | AI Tool Integration |
-| ☁️ AWS | Cloud Deployment |
-| 🐳 Docker | Containerization |
-| 🚀 Production AI | Scalable AI Systems |
-
-</div>
-
----
-
-# 🗺️ My Learning Journey
-
-```text
-Frontend
-   │
-   ▼
-React + TypeScript
-   │
-   ▼
-Backend Development
-   │
-   ▼
-Python + FastAPI
-   │
-   ▼
-Generative AI
-   │
-   ▼
-LLMs + RAG
-   │
-   ▼
-AI Agents
-   │
-   ▼
-LangGraph + MCP
-   │
-   ▼
-AWS + Production
-   │
-   ▼
-🚀 AI Engineering
-```
-
----
-
-# 💡 Developer Philosophy
-
-<div align="center">
-
-### Learn → Build → Break → Fix → Ship → Repeat
-
-<br/>
-
-> **"Don't just learn AI. Build with it."**
-
-</div>
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/panchumarthi-dileep-kumar-a6a82a219/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://dileepkumar-dev.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:dileepkumar22p@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🚀 Building intelligent products with AI + Full Stack Engineering.
-
-⭐ **Explore my repositories and let's build something amazing.**
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer" width="100%"/>
